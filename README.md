@@ -46,7 +46,7 @@ Open [http://localhost:3000](http://localhost:3000). You'll be redirected to `/e
 │   └── messages/
 │       ├── en.json                 # English translations
 │       └── ja.json                 # Japanese translations
-├── middleware.ts                   # Locale detection & routing
+├── proxy.ts                       # Locale detection & routing (Next.js 16)
 └── next.config.ts                  # next-intl plugin
 ```
 
