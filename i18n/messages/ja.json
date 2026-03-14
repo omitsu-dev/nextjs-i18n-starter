@@ -1,0 +1,23 @@
+{
+  "site": {
+    "title": "My App",
+    "description": "多言語対応の Next.js アプリケーション"
+  },
+  "nav": {
+    "home": "ホーム",
+    "about": "概要",
+    "language": "言語"
+  },
+  "home": {
+    "heading": "ようこそ",
+    "body": "Next.js と next-intl で構築された多言語スターターです。",
+    "cta": "詳しく見る"
+  },
+  "about": {
+    "heading": "概要",
+    "body": "このスターターは、Next.js App Router と next-intl を使った多言語 Web アプリケーションの最小構成を提供します。"
+  },
+  "footer": {
+    "copyright": "All rights reserved."
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "site": {
+    "title": "My App",
+    "description": "A multilingual Next.js application"
+  },
+  "nav": {
+    "home": "Home",
+    "about": "About",
+    "language": "Language"
+  },
+  "home": {
+    "heading": "Welcome",
+    "body": "This is a multilingual starter built with Next.js and next-intl.",
+    "cta": "Learn more"
+  },
+  "about": {
+    "heading": "About",
+    "body": "This starter provides a minimal setup for building multilingual web applications with Next.js App Router and next-intl."
+  },
+  "footer": {
+    "copyright": "All rights reserved."
+  }
+}
