@@ -1,3 +1,5 @@
+![CI](https://github.com/omitsu-dev/nextjs-i18n-starter/actions/workflows/ci.yml/badge.svg)
+
 # nextjs-i18n-starter
 
 Minimal Next.js 16 + next-intl v4 multilingual starter with App Router. JA/EN ready out of the box.
