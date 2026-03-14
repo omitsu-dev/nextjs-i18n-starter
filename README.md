@@ -1,6 +1,6 @@
 # nextjs-i18n-starter
 
-Minimal Next.js 15 + next-intl v4 multilingual starter with App Router. JA/EN ready out of the box.
+Minimal Next.js 16 + next-intl v4 multilingual starter with App Router. JA/EN ready out of the box.
 
 Built from the same architecture powering [32blog.com](https://32blog.com) (120+ articles, 3 languages).
 
@@ -143,7 +143,7 @@ import { Link } from "@/i18n/navigation";
 
 | Package | Version |
 |---------|---------|
-| Next.js | 15.5 |
+| Next.js | 16.x |
 | next-intl | 4.x |
 | React | 19.x |
 | Tailwind CSS | 4.x |
