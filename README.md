@@ -155,4 +155,4 @@ import { Link } from "@/i18n/navigation";
 
 ## License
 
-MIT
+[MIT](LICENSE)
